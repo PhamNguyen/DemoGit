@@ -35,3 +35,4 @@ a
 d: delete
 r: rename
 c: conflict
+dong thu 38
